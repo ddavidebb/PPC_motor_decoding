@@ -14,7 +14,17 @@ The optimal designs are contained in the pickle file 'optimal_hparams.pkl'.
 The decoding performance was investigated under different training conditions, also by artificially reducing the datasets, reflecting different recording scenarios. 
 For brevity, the trained models contained in this repository ('trained_models' subfolder) refer only to the experiments performed while not artificially reducing datasets; 
 furthermore, the uploaded trained models are only associated to the first cross-validation fold ('..._fold00.pth') or to the average across folds ('..._avg_folds.pth'). The latter was not used in the original publication, and it is reported here as a representative trained model (without uploading all fold-specific models). 
+
 The 'main.py' script is a sample script showing how to use the trained networks with the optimal designs (as resulted from Bayesian optimization).
 
 
 Please cite our manuscript if you use our code or results for your research.
+
+### Prerequisites
+* PyTorch
+
+### Usage
+Run the main.py script.
+
+## Citing
+Soon available.
