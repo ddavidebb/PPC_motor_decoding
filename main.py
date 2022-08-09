@@ -8,7 +8,7 @@ Davide Borra, 2022
 """
 
 from models import FCNN, CNN, RNN
-import pickle5 as pickle
+import pickle
 import torch
 import os
 import yaml
