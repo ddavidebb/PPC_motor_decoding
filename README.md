@@ -1,6 +1,6 @@
 # Motor decoding from the posterior parietal cortex using deep neural networks
 
-The codes and trained models of this repository are associated to the journal paper _Motor decoding from the posterior parietal cortex using deep neural networks_ by Davide Borra, Matteo Filippini, Mauro Ursino, Patrizia Fattori, and Elisa Magosso (submitted to Neurocomputing, 2022). 
+The codes and trained models of this repository are associated to the journal paper _Motor decoding from the posterior parietal cortex using deep neural networks_ by Davide Borra, Matteo Filippini, Mauro Ursino, Patrizia Fattori, and Elisa Magosso. 
 In that study, we compared different deep neural networks (fully-connected neural networks, convolutional neural networks, and recurrent neural networks) while decoding motor states from the neural activity of the posterior parietal cortex of macaques. 
 
 Three different motor decoding tasks were addressed: reaching and reach-to-grasping decoding (this one with two different illumination conditions), involving the classification of different reaching end-points or different grip shapes. 
