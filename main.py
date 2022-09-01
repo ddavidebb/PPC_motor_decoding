@@ -1,6 +1,6 @@
 """
 Script to test the optimal neural network designs resulting from 'Motor decoding from posterior parietal cortex using deep neural networks'.
-by Davide Borra, Matteo Filippini, Mauro Ursino, Patrizia Fattori, and Elisa Magosso (submitted to Neurocomputing, 2022).
+by Davide Borra, Matteo Filippini, Mauro Ursino, Patrizia Fattori, and Elisa Magosso.
 
 Author
 ------
